@@ -1,4 +1,4 @@
-# 🧮 Modern Calculator App
+# Modern Calculator App
 
 A modern and responsive Calculator Application built using **HTML**, **CSS**, and **JavaScript**. This project performs basic arithmetic operations while providing a clean user interface, Dark/Light Mode support, keyboard functionality, and responsive design for different screen sizes.
 
