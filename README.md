@@ -68,7 +68,7 @@ This project helped me improve my understanding of:
 - Frontend Development Best Practices
 - Git & GitHub Version Control
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Scientific Calculator Functions
 - Calculation History
