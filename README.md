@@ -86,8 +86,7 @@ https://sarvesh-neekhra.github.io/Calculator_APP/
 
 ## 👨‍💻 Author
 
-**Sarvesh Neekhra**
-
-CSE Graduate | Frontend Developer | CDAC Student
+**Sarvesh Neekhra
+Frontend Developer | CDAC Student | MERN Stack Learner
 
 GitHub: https://github.com/sarvesh-neekhra
